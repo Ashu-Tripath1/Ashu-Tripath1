@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:1A1A2E&height=200&section=header&text=Ashutosh%20Tripathi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20AI%2C%20XR%20%26%20Full-Stack&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:1A1A2E&height=200&section=header&text=Ashutosh%20Tripathi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20with%20AI%2C%20XR%20and%20Full-Stack&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Developer;AR+%2F+VR+%26+Game+Developer;Applied+AI+%7C+IoT+%7C+Explainable+AI;2x+SSB+Conference+Qualifier+%F0%9F%8E%96%EF%B8%8F;Tabla+Player+for+10%2B+Years+%F0%9F%A5%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Developer;AR+%2F+VR+%26+Game+Developer;Applied+AI+%7C+IoT+%7C+Explainable+AI;2x+SSB+Conference+Qualifier+%F0%9F%8E%96%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
@@ -170,14 +170,4 @@ class AshutoshTripathi:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashu-Tripath1/Ashu-Tripath1/output/github-contribution-grid-snake.svg"/>
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Ashu-Tripath1/Ashu-Tripath1/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
-</div>
-
----
-
-<div align="center">
-
-[![](https://komarev.com/ghpvc/?username=Ashu-Tripath1&style=for-the-badge&color=6A0DAD)](https://github.com/Ashu-Tripath1)
-
-*"I find rhythm in code and classical Indian music alike."* 🥁
-
 </div>
